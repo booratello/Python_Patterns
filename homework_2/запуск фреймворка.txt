@@ -1,0 +1,2 @@
+Фреймворк запускал с помощью gunicorn:
+gunicorn main:application
